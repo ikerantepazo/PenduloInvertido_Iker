@@ -215,6 +215,8 @@ congelada y no acabe de enviar el programa el componente pertinente. Trataré   
 
 El código que deberíamos emplear sería: 
 
+--------------------> (Está completo y descriptivo en el pdf)
+
 ![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.016.jpeg)
 
 ![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.017.jpeg)
