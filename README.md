@@ -7,9 +7,9 @@ Esta práctica tiene como objetivo implementar una biblioteca de controladores P
 
 Se desarrollarán tres variantes del controlador PID en tiempo discreto:
 
-    PID : utiliza aproximaciones hacia atrás para las derivadas y sumas acumulativas para la integral.
-    PID como filtro IIR: modelado mediante transformada Z, facilitando su implementación como filtro digital.
-    PID filtro baja : se le pone un filtro al término derivativo para evitar que el ruido o los cambios bruscos del error afecten al control.
+-PID : utiliza aproximaciones hacia atrás para las derivadas y sumas acumulativas para la integral.
+-PID como filtro IIR: modelado mediante transformada Z, facilitando su implementación como filtro digital.
+-PID filtro baja : se le pone un filtro al término derivativo para evitar que el ruido o los cambios bruscos del error afecten al control.
 
 Cada implementación está basada en los pseudocódigos del guión.
 
@@ -27,9 +27,9 @@ PIDController/
 
 Es la biblioteca desarrollada para está práctica para implementar los tres tipos de controladores PID discretos:
 
-    PID directo
-    PID como filtro IIR
-    PID filtro pasa baja
+-PID directo
+-PID como filtro IIR
+-PID filtro pasa baja
 
 Dentro de cada carpeta estarán los archivos .h y .cpp con la implementación de las clases PID
 
@@ -39,10 +39,10 @@ CodigoCompletoPendulo.ino
 
 Este es el sketch código principal de Arduino que integra las bibliotecas anteriores. Aquí se encuentra el código de control que:
 
-    Lee el ángulo del péndulo usando el MPU6050
-    Calcula la señal de control con el PID
-    Aplica la corrección al actuador
-    Permite probar y comparar las distintas variantes del controlador PID
+-Lee el ángulo del péndulo usando el MPU6050
+-Calcula la señal de control con el PID
+-Aplica la corrección al actuador
+-Permite probar y comparar las distintas variantes del controlador PID
 
 
 
