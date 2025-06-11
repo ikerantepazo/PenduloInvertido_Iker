@@ -4,7 +4,7 @@
 
 Iker Antepazo Cancelas 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.001.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.001.jpeg)
 
 **Introducción:**
 **\
