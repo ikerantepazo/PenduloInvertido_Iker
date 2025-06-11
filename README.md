@@ -93,7 +93,7 @@ Asímismo es de vital importancia el contar con una placa de pocas
 
 dismensiones para así facilitarnos el proceso de creación del chasis, porque no   queremos un robot muy grande, con lo cual esto será muy importante. 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.002.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.002.jpeg)
 
 **Chasis**
 
@@ -109,19 +109,19 @@ Lo importante a tener en cuenta para el desarrollo del chasis son los siguientes
 
 Después de corregir los errores de los dos chasis mencionados por Daniel Acevedo en su documentación, logré hacer un chasis con el que robot funcionara. En este caso, el centro de gravedad estaba muy centrado y a una altura baja, lo que proporcionaba una gran estabilidad incluso cuando el robot estaba apagado. Pero no se adaptaba completamente con mis necesidades debido al uso de los motores antes mencionados. 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.003.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.003.jpeg)
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.004.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.004.jpeg)
 
 Este primer chasis lo he desarrollado a través de la página web de ”onshape” lo que me permitió diseñar incluso el portapilas pero se me hizo muy duro y difícil terminar con este proceso con lo cual para el segundo chasis me pasé a FreeCad. 
 
 ***Segundo chasis:*** 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.005.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.005.jpeg)
 
 Este segundo chasis lo he diseñado con la ayuda de FreeCad, le he agregado   calculando las dimensiones de la placa PCB unos agujeros para permitirnos   atornillar la placa al chasis con tuercas y tornillos asegurándonos así la fijación   de esta. Al igual que esta novedad también le he agregado unas elevaciones en   los laterales de la placa para poder atornillar nuestros motores en posición    vertical permitiéndonos de este modo emplear los motores tradicionales antes  mencionados. 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.006.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.006.jpeg)
 
 Este fue el diseño final del chasis ya que se adaptaba a la perfección con lo  
 
@@ -131,7 +131,7 @@ A partir de aquí la impresión duró 4 horas aproximadamente, pero tuve  bastan
 
 empleada. 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.007.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.007.jpeg)
 
 **Prueba de componentes por separado** 
 
@@ -139,19 +139,19 @@ empleada.
 
 Realizamos una primera prueba para verificar que el sensor funcione 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.008.png)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.008.png)
 
 Como vemos que el sensor nos proporciona medidas coherentes, procedemos  a calibrar el sensor en la posición en la que estará midiendo. 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.009.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.009.jpeg)
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.010.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.010.jpeg)
 
 Finalmente, probamos el código que utilizaremos para medir el ángulo de 
 
 inclinación del robot. 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.011.png)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.011.png)
 
 ![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.012.jpeg)
 
@@ -159,11 +159,11 @@ TB6612FNG:
 
 Al igual que los códigos del sensor anterior, los he modificado antes de subirlos   a la ESP32, ajustando los pines para que sean compatibles con la ESP32: 
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.013.png)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.013.png)
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.014.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.014.jpeg)
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.015.png)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.015.png)
 
 **Montaje** 
 
@@ -217,6 +217,6 @@ El código que deberíamos emplear sería:
 
 --------------------> (Está completo y descriptivo en el pdf)
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.016.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.016.jpeg)
 
-![](Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.017.jpeg)
+![](IMAGENES/Aspose.Words.76087212-6a73-4683-a5a5-63be0c467da9.017.jpeg)
